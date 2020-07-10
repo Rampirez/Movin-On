@@ -1,11 +1,11 @@
 .clearfix::after {
-    content: " ";
-    display: block;
-    clear: both;
-  }
+  content: " ";
+  display: block;
+  clear: both;
+}
 
 form {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 24px;
   margin: 15px;
 }
@@ -21,30 +21,53 @@ footer {
 }
 
 .navbar {
-    background-color: #263247;
-    padding: 20px;
-    padding-right: 120px;
-    padding-left: 120px;
-    color: white;
+  background-color: #263247;
+  padding: 20px;
+  padding-right: 120px;
+  padding-left: 120px;
+  color: white;
+  text-align: left;
+}
+
+.contact-info {
+    margin-bottom: 15px;
 }
 
 
-input[type=submit] {
+.email-link:link {
+  color: white;
+}
+
+.email-link:visited {
+  color: white;
+}
+
+.email-link:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.email-link:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+input[type="submit"] {
   border: 0;
   width: 200px;
   height: 50px;
   font-family: Tahoma;
   background-color: rgb(114, 197, 197);
   color: white;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 24px;
 }
 
 .messageformat {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 24px;
   margin: 15px;
-
 }
 
 .pagetop {
@@ -73,7 +96,7 @@ input[type=submit] {
   position: absolute;
 }
 
-.format{
+.format {
   margin: 0% 20%;
 }
 
@@ -91,7 +114,7 @@ input[type=submit] {
   color: white;
   width: 200px;
   text-align: center;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 24px;
 }
 
@@ -99,18 +122,18 @@ input[type=submit] {
   float: left;
   width: 25%;
   color: white;
-  background-color: rgb(114, 197, 197); 
+  background-color: rgb(114, 197, 197);
   padding: 30px;
   text-align: center;
-  margin:-3%;
+  margin: -3%;
   font-size: 32px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 #navigation {
   float: right;
   font-size: 25px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   color: rgb(73, 73, 73);
 }
 
@@ -125,8 +148,8 @@ input[type=submit] {
   margin-right: 10px;
 }
 
-#abouttext{
-  font-family: 'Times New Roman', Times, serif;
+#abouttext {
+  font-family: "Times New Roman", Times, serif;
   font-size: 25px;
 }
 
@@ -140,5 +163,5 @@ input[type=submit] {
 }
 
 #content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
+  padding-bottom: 2.5rem; /* Footer height */
 }

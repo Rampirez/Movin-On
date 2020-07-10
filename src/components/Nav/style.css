@@ -1,0 +1,33 @@
+.nav {
+    background-color: #f78c09;
+    padding: 20px;
+    padding-right: 120px;
+    padding-left: 120px;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+  }
+
+  .nav-item {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+
+  a:link {
+    color: #263247;
+  }
+  
+  a:visited {
+    color: #263247;
+  }
+  
+  a:hover {
+    color: #263247;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #263247;
+    background-color: transparent;
+    text-decoration: underline;
+  }
