@@ -1,0 +1,144 @@
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+
+form {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  margin: 15px;
+}
+
+footer {
+  bottom: 0;
+  position: relative;
+  width: 100%;
+}
+
+#portLink {
+  color: white;
+}
+
+.navbar {
+    background-color: #263247;
+    padding: 40px;
+    padding-right: 120px;
+    padding-left: 120px;
+    color: white;
+}
+
+
+input[type=submit] {
+  border: 0;
+  width: 200px;
+  height: 50px;
+  font-family: Tahoma;
+  background-color: rgb(114, 197, 197);
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+}
+
+.messageformat {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  margin: 15px;
+
+}
+
+.pagetop {
+  background-color: white;
+  padding: 30px;
+  height: 30px;
+  width: 98%;
+  z-index: 20;
+  border-bottom: 10px solid rgb(114, 197, 197);
+  clear: both;
+}
+
+.pagebottom {
+  background-color: rgb(56, 56, 56);
+  padding: 30px;
+  height: 5px;
+  width: 98%;
+  z-index: 20;
+  border-top: 5px solid rgb(114, 197, 197);
+  clear: both;
+  overflow: auto;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  bottom: 0;
+  position: absolute;
+}
+
+.format{
+  margin: 0% 20%;
+}
+
+.container {
+  position: relative;
+  float: left;
+  margin: 40px;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  top: 80px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  width: 200px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+}
+
+#title {
+  float: left;
+  width: 25%;
+  color: white;
+  background-color: rgb(114, 197, 197); 
+  padding: 30px;
+  text-align: center;
+  margin:-3%;
+  font-size: 32px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#navigation {
+  float: right;
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(73, 73, 73);
+}
+
+#aboutstyle {
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  margin: 4% -3%;
+}
+
+#profileimage {
+  float: left;
+  margin-right: 10px;
+}
+
+#abouttext{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
+
+#topiccolor {
+  color: rgb(114, 197, 197);
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
