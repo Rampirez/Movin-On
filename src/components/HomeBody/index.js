@@ -6,7 +6,7 @@ export function HomeBody() {
     <div>
       <div className="jumbotron">
         <h1>Cargo with Care!</h1>
-        <p>
+        <p className='body-p'>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit
           pellentesque habitant morbi tristique senectus et. Tellus orci ac
@@ -21,7 +21,7 @@ export function HomeBody() {
           vivamus at. Suspendisse in est ante in nibh mauris cursus mattis.
         </p>
         <img src="https://www.pngkit.com/png/full/237-2374568_cargo-truck-png-picture-moving-trucks-png.png" class="rounded float-left" alt="truck pic left"></img>
-        <p>
+        <p className='body-p'>
           Ullamcorper eget nulla facilisi etiam dignissim diam quis. Pulvinar
           pellentesque habitant morbi tristique senectus et netus et. Ut eu sem
           integer vitae justo eget magna fermentum iaculis. Quis auctor elit sed
@@ -32,7 +32,7 @@ export function HomeBody() {
           Gravida cum sociis natoque penatibus et magnis dis. Habitant morbi
           tristique senectus et netus. Eu non diam phasellus vestibulum lorem.
         </p>
-        <p>
+        <p className='body-p'>
           Aenean et tortor at risus viverra. Enim diam vulputate ut pharetra
           sit. Adipiscing commodo elit at imperdiet. Eu mi bibendum neque
           egestas congue quisque. Blandit turpis cursus in hac habitasse platea

@@ -22,7 +22,8 @@ export function HomeSlider() {
               alt="First slide"
             />
             <div className="black-overlay">
-              <h1 className="slide-text">Slide 1</h1>
+              <h1 className="slide-text">Move Fast!</h1>
+              <p className='slide-caption'>We offer same day moving!</p>
             </div>
           </div>
           <div className="carousel-item">
@@ -32,7 +33,8 @@ export function HomeSlider() {
               alt="Second slide"
             />
             <div className="black-overlay">
-            <h1 className="slide-text">Slide 2</h1>
+            <h1 className="slide-text">Move Safe!</h1>
+            <p className='slide-caption'>With us, you know your cargo will be transported with the upmost care!</p>
             </div>
           </div>
           <div className="carousel-item">
@@ -42,7 +44,8 @@ export function HomeSlider() {
               alt="Third slide"
             />
             <div className="black-overlay">
-            <h1 className="slide-text">Slide 3</h1>
+            <h1 className="slide-text">Move Reliable!</h1>
+            <p className='slide-caption'>Always on time and never skipping a beat!</p>
             </div>
           </div>
         </div>
