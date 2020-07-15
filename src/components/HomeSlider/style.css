@@ -1,7 +1,12 @@
 #homeSlideshow {
-    height: 500px;
+    height: 800px;
     width: auto;
     background-color: grey;
     overflow: hidden;
+}
+
+.slideimage {
+    position: relative /* Declared position allows for location changes */;
+    top: -200px; /* Moves the image 2px closer to the top of the page */;
 }
 
