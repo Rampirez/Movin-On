@@ -2,7 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import Contact from './components/Contact';
 import Nav from './components/Nav';
-import HomeSlider from './components/HomeSlider'
+import HomeSlider from './components/HomeSlider';
+import HomeBody from './components/HomeBody';
 
 
 import './App.css';
@@ -13,6 +14,7 @@ function App() {
       <Contact />
       <Nav />
       <HomeSlider />
+      <HomeBody />
     </div>
   );
 }

@@ -21,12 +21,10 @@ export function HomeSlider() {
               src="https://via.placeholder.com/150"
               alt="First slide"
             />
-            <div className="container">
-              <div className="carousel-caption">
+              <div className="carousel-caption d-none d-md-block bg-dark mb-4">
                 <h5>bdhsuabfsa</h5>
                 <p>fdshauifgdsgayig</p>
               </div>
-            </div>
           </div>
           <div className="carousel-item">
             <img className="d-block w-100" src="" alt="Second slide" />
