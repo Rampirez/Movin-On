@@ -5,7 +5,7 @@ export function HomeBody() {
   return (
     <div>
       <div className="jumbotron">
-        <h1>Hello World!</h1>
+        <h1>Cargo with Care!</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit
@@ -20,6 +20,7 @@ export function HomeBody() {
           quisque sagittis purus sit amet volutpat. Tincidunt lobortis feugiat
           vivamus at. Suspendisse in est ante in nibh mauris cursus mattis.
         </p>
+        <img src="https://www.pngkit.com/png/full/237-2374568_cargo-truck-png-picture-moving-trucks-png.png" class="rounded float-left" alt="truck pic left"></img>
         <p>
           Ullamcorper eget nulla facilisi etiam dignissim diam quis. Pulvinar
           pellentesque habitant morbi tristique senectus et netus et. Ut eu sem

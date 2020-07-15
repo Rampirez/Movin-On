@@ -21,9 +21,8 @@ export function HomeSlider() {
               src="https://www.accessselfstorage.com/wp-content/uploads/2017/06/Bernardsville-Tempo-Truck-2.jpg"
               alt="First slide"
             />
-            <div className="carousel-caption d-none d-md-block bg-dark mb-4">
-              <h5>bdhsuabfsa</h5>
-              <p>fdshauifgdsgayig</p>
+            <div className="black-overlay">
+              <h1 className="slide-text">Slide 1</h1>
             </div>
           </div>
           <div className="carousel-item">
@@ -32,6 +31,9 @@ export function HomeSlider() {
               src="https://uploads.website.storedge.com/17c74b4e-229a-4eb3-aa2b-ec6187254c6c/image005-1.jpg"
               alt="Second slide"
             />
+            <div className="black-overlay">
+            <h1 className="slide-text">Slide 2</h1>
+            </div>
           </div>
           <div className="carousel-item">
             <img
@@ -39,6 +41,9 @@ export function HomeSlider() {
               src="https://www.accessselfstorage.com/wp-content/uploads/2017/06/Bernardsville-Tempo-Truck-2.jpg"
               alt="Third slide"
             />
+            <div className="black-overlay">
+            <h1 className="slide-text">Slide 3</h1>
+            </div>
           </div>
         </div>
         <a
