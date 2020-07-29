@@ -41,7 +41,7 @@ export default class ScrollToTop extends Component {
           <div className="scroll-to-top">
             {is_visible && (
               <div onClick={() => this.scrollToTop()}>
-                <button type="button" class="btn btn-primary">Back to the top!</button>
+                <button type="button" class="btn btn-primary">TOP OF THE PAGE</button>
               </div>
             )}
           </div>

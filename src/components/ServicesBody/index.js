@@ -67,8 +67,6 @@ export function ServicesBody() {
           <h2>Local Statewide</h2>
           <br></br>
           <p className="service-p">
-            MOVINON? LLC can provide complete crating and packing services to
-            assure your valuable items are shipped safely and securely.<br></br>
             We DO NOT charge for mileage for local moves or surrounding areas,
             this includes, but not limited to:
           </p>
@@ -97,11 +95,14 @@ export function ServicesBody() {
 
           <h2>Last Minute Calls</h2>
           <br></br>
-          <p className='service-p'>
+          <p className="service-p">
             In a hurry? We can help!
             <br></br>
             <b>Call (210)650-0505</b>
           </p>
+
+          <img src="https://www.movinon.info/images/tarjetas.gif"></img>
+          <p>Cash/Checks/Money orders accepted</p>
         </div>
       </div>
     </div>

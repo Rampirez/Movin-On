@@ -26,7 +26,7 @@ export function Footer() {
                   <a href="http://www.sanantonio.bbb.org/">San Antonio Better Business Bureau</a>
                 </li>
                 <li>
-                  <a href="http://www.dot.state.tx.us/apps/mccs/mccs_search.asp?message=name">TX Dept of Transportation</a>
+                  <a href="https://www.transportation.gov/">TX Dept of Transportation</a>
                 </li>
                 <li>
                   <a href="http://www.dot.state.tx.us/apps/mccs/mccs_search.asp?message=name">US Dept of Transportation</a>
@@ -34,6 +34,30 @@ export function Footer() {
                 <li>
                   <a href="http://www.1800gotjunk.com/">1-800-GOT-JUNK?</a>
                 </li>
+              </ul>
+            </div>
+
+            <div class="col-md-3 mb-md-0 mb-3">
+
+              <ul class="list-unstyled">
+                <li>
+                Licensed by:
+                </li>
+                <li>
+                TXDMV #00581976B
+                </li>
+                <li>
+                USDOT #2043392
+                </li>
+                <li>
+                888.368.4689
+                </li>
+                <li>
+                  <a href="https://www.bbb.org/us/tx/san-antonio/profile/moving-companies/movin-on-llc-0825-34679/customer-reviews">
+                    <img src='http://seal-austin.bbb.org/customer-reviews/badge-10-bbb-34679.png'></img>
+                  </a>
+                </li>
+                
               </ul>
             </div>
           </div>
