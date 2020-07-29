@@ -8,49 +8,31 @@ export function Footer() {
         <div class="container-fluid text-center text-md-left">
           <div class="row">
             <div class="col-md-6 mt-md-0 mt-3">
-              <h5 class="text-uppercase">Footer Content</h5>
+              <h5 class="text-uppercase">Contact Info</h5>
               <p>
-                Here you can use rows and columns to organize your footer
-                content.
+                (210)650-0505
+                <br></br>
+              <a href='Ron@MovinOn.info'>Ron@MovinOn.info</a>
               </p>
             </div>
 
             <hr class="clearfix w-100 d-md-none pb-3" />
 
             <div class="col-md-3 mb-md-0 mb-3">
-              <h5 class="text-uppercase">Links</h5>
+              <h5 class="text-uppercase">Our Business Partners</h5>
 
               <ul class="list-unstyled">
                 <li>
-                  <a href="#!">Link 1</a>
+                  <a href="http://www.sanantonio.bbb.org/">San Antonio Better Business Bureau</a>
                 </li>
                 <li>
-                  <a href="#!">Link 2</a>
+                  <a href="http://www.dot.state.tx.us/apps/mccs/mccs_search.asp?message=name">TX Dept of Transportation</a>
                 </li>
                 <li>
-                  <a href="#!">Link 3</a>
+                  <a href="http://www.dot.state.tx.us/apps/mccs/mccs_search.asp?message=name">US Dept of Transportation</a>
                 </li>
                 <li>
-                  <a href="#!">Link 4</a>
-                </li>
-              </ul>
-            </div>
-
-            <div class="col-md-3 mb-md-0 mb-3">
-              <h5 class="text-uppercase">Links</h5>
-
-              <ul class="list-unstyled">
-                <li>
-                  <a href="#!">Link 1</a>
-                </li>
-                <li>
-                  <a href="#!">Link 2</a>
-                </li>
-                <li>
-                  <a href="#!">Link 3</a>
-                </li>
-                <li>
-                  <a href="#!">Link 4</a>
+                  <a href="http://www.1800gotjunk.com/">1-800-GOT-JUNK?</a>
                 </li>
               </ul>
             </div>

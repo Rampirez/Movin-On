@@ -4,6 +4,7 @@ import Nav from '../components/Nav';
 import HomeSlider from '../components/HomeSlider';
 import HomeBody from '../components/HomeBody';
 import Footer from '../components/Footer';
+import ServiceBody from '../components/ServicesBody';
 
 
 class Home extends Component {
@@ -17,6 +18,9 @@ class Home extends Component {
           </div>
           <div id="about-us-section">
           <HomeBody />
+          </div>
+          <div id="service-section">
+          <ServiceBody />
           </div>
           <Footer />
         </div>

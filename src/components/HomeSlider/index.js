@@ -18,34 +18,40 @@ export function HomeSlider() {
           <div className="carousel-item active">
             <img
               className="d-block w-100 slideimage"
-              src="https://www.accessselfstorage.com/wp-content/uploads/2017/06/Bernardsville-Tempo-Truck-2.jpg"
+              src="https://i.imgur.com/hBA3Mic.jpg"
               alt="First slide"
             />
             <div className="black-overlay">
-              <h1 className="slide-text">Move Fast!</h1>
-              <p className='slide-caption'>We offer same day moving!</p>
+              <h1 className="slide-text">Need some help getting all your belongings moved?</h1>
+              <p className='slide-caption'>If so, then you've come to the right place. We are licensed and insured, and would consider it a privilege to being of service. Go ahead, give us a call at anytime. We are open 24 Hours a day/seven days a week</p>
             </div>
           </div>
           <div className="carousel-item">
             <img
               className="d-block w-100 slideimage"
-              src="https://uploads.website.storedge.com/17c74b4e-229a-4eb3-aa2b-ec6187254c6c/image005-1.jpg"
+              src="https://i.imgur.com/JTnJtvW.jpg"
               alt="Second slide"
             />
             <div className="black-overlay">
-            <h1 className="slide-text">Move Safe!</h1>
-            <p className='slide-caption'>With us, you know your cargo will be transported with the upmost care!</p>
+            <h1 className="slide-text">We are in your Texas area</h1>
+            <p className='slide-caption'>We cover just about any area in Texas. Check our service areas to see where exactly we can help!</p>
             </div>
           </div>
           <div className="carousel-item">
             <img
               classname="d-block w-100 slideimage"
-              src="https://www.accessselfstorage.com/wp-content/uploads/2017/06/Bernardsville-Tempo-Truck-2.jpg"
+              src="https://i.imgur.com/KYpzO3n.jpg"
               alt="Third slide"
             />
             <div className="black-overlay">
-            <h1 className="slide-text">Move Reliable!</h1>
-            <p className='slide-caption'>Always on time and never skipping a beat!</p>
+            <h1 className="slide-text">We do:</h1>
+            <p className='slide-caption'><ul>
+              <li>Apartments</li>
+              <li>Homes</li>
+              <li>Businesses</li>
+              <li>Local & Statewide Relocation</li>
+              <li>Last Minute Calls</li>
+              </ul></p>
             </div>
           </div>
         </div>
