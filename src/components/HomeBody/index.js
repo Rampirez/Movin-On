@@ -30,7 +30,7 @@ export function HomeBody() {
         </div>
         <img
           src="https://www.pngkit.com/png/full/237-2374568_cargo-truck-png-picture-moving-trucks-png.png"
-          class="rounded float-left"
+          class="rounded float-left truckpic"
           alt="truck pic left"
         ></img>
         <div className="service-area">

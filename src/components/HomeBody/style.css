@@ -17,3 +17,21 @@
 .service-list-item {
   font-size: 20px;
 }
+
+@media (max-width: 768px) {
+  .body-p {
+    font-size: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+  }
+
+  .truckpic {
+    display: none;
+  }
+
+  .service-area {
+    text-align: start;
+    padding-left: 200px;
+  }
+}
