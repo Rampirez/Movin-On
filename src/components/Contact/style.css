@@ -167,5 +167,24 @@ input[type="submit"] {
 }
 
 @media (max-width: 768px) {
-  
+  .navbar {
+    background-color: #263247;
+    padding: 0px;
+    padding-right: 0px;
+    padding-left: 20px;
+    color: white;
+    text-align: left;
+  }
+
+  h1{
+    font-size: 25px;
+  }
+
+  h2{
+    font-size: 25px;
+  }
+
+  .contact-info {
+    margin-bottom: 15px;
+}
 }

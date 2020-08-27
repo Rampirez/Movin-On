@@ -39,7 +39,7 @@
 
 @media (max-width: 768px) {
     #homeSlideshow {
-        height: 400px;
+        height: 250px;
         width: auto;
         background-color: grey;
         overflow: hidden;
@@ -62,18 +62,18 @@
     }
     
     .slide-text {
-        font-size: 40px;
+        font-size: 30px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        padding-top: 80px;
+        padding-top: 10px;
         margin: auto;
         color: white;
     }
     
     .slide-caption {
         font-size: 15px;
-        margin: 50px;
-        padding-left: 150px;
-        padding-right: 150px;
+        margin: 30px;
+        padding-left: 0px;
+        padding-right: 0px;
         color: white;
     }
 }

@@ -101,7 +101,7 @@ export function ServicesBody() {
             <b>Call (210)650-0505</b>
           </p>
 
-          <img src="https://www.dermacare.com/wp-content/uploads/2017/08/visa-mastercard-discover-logo.jpg" width = "250" height = "50"></img>
+          <img src="https://www.dermacare.com/wp-content/uploads/2017/08/visa-mastercard-discover-logo.jpg" class = 'payment' width = "250" height = "50"></img>
           <p>Cash/Checks/Money orders accepted</p>
         </div>
       </div>

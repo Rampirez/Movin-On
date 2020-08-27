@@ -18,4 +18,17 @@
     .service-block {
         background-color: white;
     }
+
+    .payment {
+        height: 20px;
+        width: 100px;
+    }
+
+    .m-5 {
+        margin: 0px;
+    }
+
+    .p-2{
+        padding: 0px;
+    }
 }

@@ -1,8 +1,8 @@
 .nav {
     background-color: #f78c09;
     padding: 20px;
-    padding-right: 120px;
-    padding-left: 120px;
+    padding-right: 0px;
+    padding-left: 0px;
     color: white;
     text-align: center;
     font-size: x-large;
@@ -34,4 +34,11 @@
 
   html {
     scroll-behavior: smooth;
+  }
+
+  @media (max-width: 768px) {
+    .nav-item {
+      padding-left: 0px;
+      padding-right: 0px;
+    }
   }
