@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This github is the test pages for the website for Movin in at San Antonio.
 
-The live site is here! movinon.info
+The live site is here! [Movin On](https://movinon.info)
 
 ## Available Scripts
 
